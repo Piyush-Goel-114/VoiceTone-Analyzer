@@ -1,0 +1,972 @@
+{
+  "SPEAKER_01": [
+    {
+      "start_time": 1.28,
+      "end_time": 2.51,
+      "transcript": "who gave me a user voucher.",
+      "duration": 1.23,
+      "emotion": "neu",
+      "emotion_confidence": 0.7976725101470947,
+      "emotion_scores": {
+        "neu": 0.7976725101470947,
+        "ang": 0.17265382409095764,
+        "sad": 0.017911504954099655,
+        "hap": 0.0117621636018157
+      }
+    },
+    {
+      "start_time": 3.69,
+      "end_time": 5.04,
+      "transcript": "How could that even f***ing happen?",
+      "duration": 1.35,
+      "emotion": "ang",
+      "emotion_confidence": 0.49206674098968506,
+      "emotion_scores": {
+        "ang": 0.49206674098968506,
+        "neu": 0.41663527488708496,
+        "hap": 0.06465359777212143,
+        "sad": 0.026644455268979073
+      }
+    },
+    {
+      "start_time": 7.12,
+      "end_time": 8.45,
+      "transcript": "Nobody's answering my email.",
+      "duration": 1.33,
+      "emotion": "ang",
+      "emotion_confidence": 0.9953852295875549,
+      "emotion_scores": {
+        "ang": 0.9953852295875549,
+        "neu": 0.003714588936418295,
+        "hap": 0.0006819848204031587,
+        "sad": 0.0002181614690925926
+      }
+    },
+    {
+      "start_time": 11.13,
+      "end_time": 12.89,
+      "transcript": "I promise to send me a voucher within 24 hours.",
+      "duration": 1.75,
+      "emotion": "ang",
+      "emotion_confidence": 0.753665566444397,
+      "emotion_scores": {
+        "ang": 0.753665566444397,
+        "neu": 0.22227199375629425,
+        "hap": 0.023586831986904144,
+        "sad": 0.00047566572902724147
+      }
+    },
+    {
+      "start_time": 13.55,
+      "end_time": 14.61,
+      "transcript": "in four f**king days.",
+      "duration": 1.06,
+      "emotion": "ang",
+      "emotion_confidence": 0.9983583092689514,
+      "emotion_scores": {
+        "ang": 0.9983583092689514,
+        "neu": 0.001219236757606268,
+        "hap": 0.0003362300922162831,
+        "sad": 8.617826097179204e-05
+      }
+    },
+    {
+      "start_time": 16.13,
+      "end_time": 17.45,
+      "transcript": "and I still have no f***ing voucher.",
+      "duration": 1.32,
+      "emotion": "ang",
+      "emotion_confidence": 0.9544491767883301,
+      "emotion_scores": {
+        "ang": 0.9544491767883301,
+        "neu": 0.03533355891704559,
+        "hap": 0.007356588263064623,
+        "sad": 0.0028606546111404896
+      }
+    },
+    {
+      "start_time": 19.03,
+      "end_time": 23.35,
+      "transcript": "I seriously want to know why because it is such a f***ing mystery to me as to how a company could be this messed up.",
+      "duration": 4.32,
+      "emotion": "ang",
+      "emotion_confidence": 0.987873375415802,
+      "emotion_scores": {
+        "ang": 0.987873375415802,
+        "sad": 0.005887378938496113,
+        "hap": 0.004859675653278828,
+        "neu": 0.0013795433333143592
+      }
+    },
+    {
+      "start_time": 23.98,
+      "end_time": 28.2,
+      "transcript": "What in the actual f*** is going on? I need to know if somebody's gonna get fired for this or I'm out!",
+      "duration": 4.22,
+      "emotion": "ang",
+      "emotion_confidence": 0.8764575719833374,
+      "emotion_scores": {
+        "ang": 0.8764575719833374,
+        "hap": 0.11706722527742386,
+        "neu": 0.005187913775444031,
+        "sad": 0.0012873676605522633
+      }
+    },
+    {
+      "start_time": 28.58,
+      "end_time": 30.1,
+      "transcript": "I am done doing business with your company.",
+      "duration": 1.52,
+      "emotion": "ang",
+      "emotion_confidence": 0.9925990104675293,
+      "emotion_scores": {
+        "ang": 0.9925990104675293,
+        "hap": 0.004181905649602413,
+        "neu": 0.003192627802491188,
+        "sad": 2.64520804194035e-05
+      }
+    },
+    {
+      "start_time": 37.59,
+      "end_time": 38.86,
+      "transcript": "Why do I have to beg for it?",
+      "duration": 1.27,
+      "emotion": "ang",
+      "emotion_confidence": 0.9560685157775879,
+      "emotion_scores": {
+        "ang": 0.9560685157775879,
+        "hap": 0.043163981288671494,
+        "sad": 0.00043966397061012685,
+        "neu": 0.00032780415494926274
+      }
+    },
+    {
+      "start_time": 39.57,
+      "end_time": 42.86,
+      "transcript": "Why do I have to email you multiple times for a measly $10 discount?",
+      "duration": 3.29,
+      "emotion": "ang",
+      "emotion_confidence": 0.9963617920875549,
+      "emotion_scores": {
+        "ang": 0.9963617920875549,
+        "hap": 0.0019370841328054667,
+        "neu": 0.0014123586006462574,
+        "sad": 0.00028868619119748473
+      }
+    },
+    {
+      "start_time": 65.71,
+      "end_time": 66.77,
+      "transcript": "possible customer.",
+      "duration": 1.06,
+      "emotion": "neu",
+      "emotion_confidence": 0.9086450934410095,
+      "emotion_scores": {
+        "neu": 0.9086450934410095,
+        "hap": 0.07950832694768906,
+        "ang": 0.011824063025414944,
+        "sad": 2.2416450519813225e-05
+      }
+    },
+    {
+      "start_time": 69.4,
+      "end_time": 70.94,
+      "transcript": "Name is Tabitha Ratched.",
+      "duration": 1.54,
+      "emotion": "neu",
+      "emotion_confidence": 0.5036572813987732,
+      "emotion_scores": {
+        "neu": 0.5036572813987732,
+        "hap": 0.35137811303138733,
+        "ang": 0.10499993711709976,
+        "sad": 0.039964668452739716
+      }
+    },
+    {
+      "start_time": 75.85,
+      "end_time": 77.07,
+      "transcript": "So annoying.",
+      "duration": 1.22,
+      "emotion": "ang",
+      "emotion_confidence": 0.9926884770393372,
+      "emotion_scores": {
+        "ang": 0.9926884770393372,
+        "hap": 0.007188484538346529,
+        "sad": 0.00011060264660045505,
+        "neu": 1.239359062310541e-05
+      }
+    },
+    {
+      "start_time": 77.27,
+      "end_time": 80.49,
+      "transcript": "This is the first time that I have to deal with a service as shitty as this.",
+      "duration": 3.22,
+      "emotion": "ang",
+      "emotion_confidence": 0.9526078104972839,
+      "emotion_scores": {
+        "ang": 0.9526078104972839,
+        "hap": 0.04181506112217903,
+        "sad": 0.005324160680174828,
+        "neu": 0.0002530108322389424
+      }
+    },
+    {
+      "start_time": 86.82,
+      "end_time": 88.52,
+      "transcript": "You better have a solution for me today or else!",
+      "duration": 1.7,
+      "emotion": "neu",
+      "emotion_confidence": 0.8134399652481079,
+      "emotion_scores": {
+        "neu": 0.8134399652481079,
+        "ang": 0.09441662579774857,
+        "hap": 0.09164966642856598,
+        "sad": 0.0004937765770591795
+      }
+    },
+    {
+      "start_time": 90.11,
+      "end_time": 91.48,
+      "transcript": "I'll quit doing business with your company.",
+      "duration": 1.37,
+      "emotion": "ang",
+      "emotion_confidence": 0.9783415794372559,
+      "emotion_scores": {
+        "ang": 0.9783415794372559,
+        "hap": 0.011881590820848942,
+        "neu": 0.009764423593878746,
+        "sad": 1.2361540029814932e-05
+      }
+    },
+    {
+      "start_time": 114.58,
+      "end_time": 115.98,
+      "transcript": "That's right. That's right.",
+      "duration": 1.4,
+      "emotion": "neu",
+      "emotion_confidence": 0.7758893370628357,
+      "emotion_scores": {
+        "neu": 0.7758893370628357,
+        "hap": 0.22024118900299072,
+        "ang": 0.0038476320914924145,
+        "sad": 2.195070010202471e-05
+      }
+    },
+    {
+      "start_time": 117.23,
+      "end_time": 120.92,
+      "transcript": "I emailed three more times and haven't gotten any news from her.",
+      "duration": 3.7,
+      "emotion": "ang",
+      "emotion_confidence": 0.8834339380264282,
+      "emotion_scores": {
+        "ang": 0.8834339380264282,
+        "hap": 0.050211962312459946,
+        "sad": 0.04967234656214714,
+        "neu": 0.016681760549545288
+      }
+    },
+    {
+      "start_time": 130.24,
+      "end_time": 131.49,
+      "transcript": "Something must be done about this.",
+      "duration": 1.25,
+      "emotion": "ang",
+      "emotion_confidence": 0.837617039680481,
+      "emotion_scores": {
+        "ang": 0.837617039680481,
+        "neu": 0.14550064504146576,
+        "hap": 0.016808470711112022,
+        "sad": 7.393409759970382e-05
+      }
+    },
+    {
+      "start_time": 156.24,
+      "end_time": 157.37,
+      "transcript": "Hold on, hold on, hold on.",
+      "duration": 1.13,
+      "emotion": "ang",
+      "emotion_confidence": 0.9675190448760986,
+      "emotion_scores": {
+        "ang": 0.9675190448760986,
+        "hap": 0.02879299595952034,
+        "neu": 0.0021042500156909227,
+        "sad": 0.001583725563250482
+      }
+    },
+    {
+      "start_time": 158.59,
+      "end_time": 162.55,
+      "transcript": "I don't have any chance to use that code at all. I paid the full price of that juicer.",
+      "duration": 3.97,
+      "emotion": "neu",
+      "emotion_confidence": 0.45246630907058716,
+      "emotion_scores": {
+        "neu": 0.45246630907058716,
+        "hap": 0.3836253881454468,
+        "ang": 0.09521542489528656,
+        "sad": 0.06869283318519592
+      }
+    },
+    {
+      "start_time": 175.26,
+      "end_time": 178.94,
+      "transcript": "So let me get this straight. You're saying that I cannot reuse that voucher?",
+      "duration": 3.68,
+      "emotion": "ang",
+      "emotion_confidence": 0.75345778465271,
+      "emotion_scores": {
+        "ang": 0.75345778465271,
+        "neu": 0.12773734331130981,
+        "hap": 0.11261019855737686,
+        "sad": 0.006194672081619501
+      }
+    },
+    {
+      "start_time": 183.85,
+      "end_time": 187.38,
+      "transcript": "What about the promise that Claire made me? She told me, as you can see from her email.",
+      "duration": 3.53,
+      "emotion": "ang",
+      "emotion_confidence": 0.6947212815284729,
+      "emotion_scores": {
+        "ang": 0.6947212815284729,
+        "hap": 0.27180272340774536,
+        "neu": 0.02800649404525757,
+        "sad": 0.005469530820846558
+      }
+    },
+    {
+      "start_time": 187.75,
+      "end_time": 190.68,
+      "transcript": "that she's going to send me a replacement voucher because the first one didn't work.",
+      "duration": 2.94,
+      "emotion": "hap",
+      "emotion_confidence": 0.8153573274612427,
+      "emotion_scores": {
+        "hap": 0.8153573274612427,
+        "ang": 0.16945044696331024,
+        "neu": 0.015014209784567356,
+        "sad": 0.0001781070459401235
+      }
+    },
+    {
+      "start_time": 206.78,
+      "end_time": 207.95,
+      "transcript": "Mistake or not?",
+      "duration": 1.16,
+      "emotion": "ang",
+      "emotion_confidence": 0.9356533885002136,
+      "emotion_scores": {
+        "ang": 0.9356533885002136,
+        "neu": 0.047529540956020355,
+        "hap": 0.016801711171865463,
+        "sad": 1.5340745449066162e-05
+      }
+    },
+    {
+      "start_time": 208.29,
+      "end_time": 214.38,
+      "transcript": "It still doesn't change the fact that Claire promised me a voucher, and I expect that promise to be kept.",
+      "duration": 6.09,
+      "emotion": "hap",
+      "emotion_confidence": 0.5276402235031128,
+      "emotion_scores": {
+        "hap": 0.5276402235031128,
+        "neu": 0.4027305543422699,
+        "ang": 0.035309892147779465,
+        "sad": 0.03431938216090202
+      }
+    },
+    {
+      "start_time": 214.78,
+      "end_time": 220.76,
+      "transcript": "I have a copy of her emails, you have a copy of her email, she clearly said that she's going to give me another voucher.",
+      "duration": 5.97,
+      "emotion": "hap",
+      "emotion_confidence": 0.637453556060791,
+      "emotion_scores": {
+        "hap": 0.637453556060791,
+        "ang": 0.26959022879600525,
+        "neu": 0.08812715858221054,
+        "sad": 0.004828942473977804
+      }
+    },
+    {
+      "start_time": 222.24,
+      "end_time": 230.04,
+      "transcript": "What are you going to do about it as a company? Are you going to honor it? Are you going to compromise your integrity for a $10 voucher, seeing that it was you who made a mistake?",
+      "duration": 7.8,
+      "emotion": "hap",
+      "emotion_confidence": 0.7850286960601807,
+      "emotion_scores": {
+        "hap": 0.7850286960601807,
+        "ang": 0.1770460158586502,
+        "neu": 0.03392389789223671,
+        "sad": 0.004001345951110125
+      }
+    },
+    {
+      "start_time": 240.23,
+      "end_time": 241.34,
+      "transcript": "I was promised a voucher.",
+      "duration": 1.11,
+      "emotion": "neu",
+      "emotion_confidence": 0.9110658764839172,
+      "emotion_scores": {
+        "neu": 0.9110658764839172,
+        "hap": 0.06326601654291153,
+        "ang": 0.025557655841112137,
+        "sad": 0.00011049852037103847
+      }
+    },
+    {
+      "start_time": 241.83,
+      "end_time": 242.86,
+      "transcript": "I will get a voucher.",
+      "duration": 1.03,
+      "emotion": "neu",
+      "emotion_confidence": 0.9375964403152466,
+      "emotion_scores": {
+        "neu": 0.9375964403152466,
+        "hap": 0.05300244688987732,
+        "ang": 0.009329191409051418,
+        "sad": 7.181537512224168e-05
+      }
+    },
+    {
+      "start_time": 244.47,
+      "end_time": 246.46,
+      "transcript": "The inconvenience I experienced, Candice.",
+      "duration": 1.99,
+      "emotion": "ang",
+      "emotion_confidence": 0.6055387854576111,
+      "emotion_scores": {
+        "ang": 0.6055387854576111,
+        "neu": 0.37819769978523254,
+        "hap": 0.014925538562238216,
+        "sad": 0.0013379593146964908
+      }
+    },
+    {
+      "start_time": 246.88,
+      "end_time": 248.03,
+      "transcript": "Are you going to forget about that?",
+      "duration": 1.15,
+      "emotion": "ang",
+      "emotion_confidence": 0.9052319526672363,
+      "emotion_scores": {
+        "ang": 0.9052319526672363,
+        "neu": 0.047848157584667206,
+        "hap": 0.04685324802994728,
+        "sad": 6.671973096672446e-05
+      }
+    },
+    {
+      "start_time": 249.61,
+      "end_time": 251.13,
+      "transcript": "Oh, our bad? We're so sorry!",
+      "duration": 1.52,
+      "emotion": "hap",
+      "emotion_confidence": 0.976416289806366,
+      "emotion_scores": {
+        "hap": 0.976416289806366,
+        "neu": 0.0234163086861372,
+        "sad": 0.00015379901742562652,
+        "ang": 1.3615139323519543e-05
+      }
+    },
+    {
+      "start_time": 251.3,
+      "end_time": 252.46,
+      "transcript": "and then not do anything about it.",
+      "duration": 1.16,
+      "emotion": "ang",
+      "emotion_confidence": 0.887544572353363,
+      "emotion_scores": {
+        "ang": 0.887544572353363,
+        "neu": 0.09384392946958542,
+        "hap": 0.018435373902320862,
+        "sad": 0.00017618488345760852
+      }
+    },
+    {
+      "start_time": 253.51,
+      "end_time": 256.43,
+      "transcript": "I have every right to claim that voucher.",
+      "duration": 2.92,
+      "emotion": "hap",
+      "emotion_confidence": 0.6203445196151733,
+      "emotion_scores": {
+        "hap": 0.6203445196151733,
+        "neu": 0.3214512765407562,
+        "ang": 0.05560912564396858,
+        "sad": 0.0025951399002224207
+      }
+    },
+    {
+      "start_time": 257.9,
+      "end_time": 259.15,
+      "transcript": "Only told me immediately.",
+      "duration": 1.25,
+      "emotion": "ang",
+      "emotion_confidence": 0.9116808772087097,
+      "emotion_scores": {
+        "ang": 0.9116808772087097,
+        "neu": 0.0630137100815773,
+        "hap": 0.020593468099832535,
+        "sad": 0.00471201678737998
+      }
+    },
+    {
+      "start_time": 259.4,
+      "end_time": 260.65,
+      "transcript": "They have already used that code.",
+      "duration": 1.25,
+      "emotion": "neu",
+      "emotion_confidence": 0.5174844861030579,
+      "emotion_scores": {
+        "neu": 0.5174844861030579,
+        "hap": 0.2837069630622864,
+        "ang": 0.184588223695755,
+        "sad": 0.014220261946320534
+      }
+    },
+    {
+      "start_time": 261.04,
+      "end_time": 263.75,
+      "transcript": "then I would have been able to buy from the flash sale on time.",
+      "duration": 2.72,
+      "emotion": "ang",
+      "emotion_confidence": 0.8133529424667358,
+      "emotion_scores": {
+        "ang": 0.8133529424667358,
+        "neu": 0.09269607812166214,
+        "sad": 0.06158806383609772,
+        "hap": 0.03236288204789162
+      }
+    },
+    {
+      "start_time": 266.72,
+      "end_time": 268.97,
+      "transcript": "This is no longer about whether or not the code was valid.",
+      "duration": 2.24,
+      "emotion": "ang",
+      "emotion_confidence": 0.9400206804275513,
+      "emotion_scores": {
+        "ang": 0.9400206804275513,
+        "hap": 0.05789303034543991,
+        "neu": 0.0020662297029048204,
+        "sad": 2.007513467106037e-05
+      }
+    },
+    {
+      "start_time": 269.34,
+      "end_time": 270.4,
+      "transcript": "This is about you!",
+      "duration": 1.06,
+      "emotion": "neu",
+      "emotion_confidence": 0.9449636936187744,
+      "emotion_scores": {
+        "neu": 0.9449636936187744,
+        "ang": 0.05418061837553978,
+        "hap": 0.0008384337997995317,
+        "sad": 1.7219736037077382e-05
+      }
+    },
+    {
+      "start_time": 270.47,
+      "end_time": 271.6,
+      "transcript": "compensating me.",
+      "duration": 1.13,
+      "emotion": "neu",
+      "emotion_confidence": 0.6333497762680054,
+      "emotion_scores": {
+        "neu": 0.6333497762680054,
+        "ang": 0.3620356619358063,
+        "hap": 0.004457763861864805,
+        "sad": 0.00015684872050769627
+      }
+    },
+    {
+      "start_time": 273.44,
+      "end_time": 274.82,
+      "transcript": "How could you be so stupid, Candace?",
+      "duration": 1.38,
+      "emotion": "hap",
+      "emotion_confidence": 0.500473141670227,
+      "emotion_scores": {
+        "hap": 0.500473141670227,
+        "ang": 0.40374475717544556,
+        "neu": 0.09553024172782898,
+        "sad": 0.00025188669678755105
+      }
+    },
+    {
+      "start_time": 287.68,
+      "end_time": 297.93,
+      "transcript": "Attacking you personally? I'm not attacking you personally, Candice. I'm upset about the situation. I want your company to prove to me that this is not a service you want me to experience as what you said earlier. Make it up to me.",
+      "duration": 10.24,
+      "emotion": "ang",
+      "emotion_confidence": 0.503816545009613,
+      "emotion_scores": {
+        "ang": 0.503816545009613,
+        "hap": 0.4230356216430664,
+        "neu": 0.03741908445954323,
+        "sad": 0.03572871908545494
+      }
+    },
+    {
+      "start_time": 299.51,
+      "end_time": 301.45,
+      "transcript": "After all, you're the one who screwed up!",
+      "duration": 1.94,
+      "emotion": "hap",
+      "emotion_confidence": 0.5873605012893677,
+      "emotion_scores": {
+        "hap": 0.5873605012893677,
+        "ang": 0.3968072235584259,
+        "neu": 0.014087398536503315,
+        "sad": 0.0017449273727834225
+      }
+    },
+    {
+      "start_time": 301.47,
+      "end_time": 304.59,
+      "transcript": "I'm not attacking you personally, I just want my $10 discount.",
+      "duration": 3.12,
+      "emotion": "ang",
+      "emotion_confidence": 0.9093331098556519,
+      "emotion_scores": {
+        "ang": 0.9093331098556519,
+        "neu": 0.06950759142637253,
+        "hap": 0.020839504897594452,
+        "sad": 0.00031983439112082124
+      }
+    },
+    {
+      "start_time": 312.56,
+      "end_time": 314.11,
+      "transcript": "You go right ahead. I'll be waiting.",
+      "duration": 1.55,
+      "emotion": "ang",
+      "emotion_confidence": 0.5035326480865479,
+      "emotion_scores": {
+        "ang": 0.5035326480865479,
+        "neu": 0.42565223574638367,
+        "hap": 0.06076544150710106,
+        "sad": 0.01004965603351593
+      }
+    }
+  ],
+  "SPEAKER_00": [
+    {
+      "start_time": 31.15,
+      "end_time": 38.22,
+      "transcript": "I'm so sorry for any inconvenience we've caused you. Normally, anyone from our company should be able to replace vouchers within 24 hours.",
+      "duration": 7.07,
+      "emotion": "ang",
+      "emotion_confidence": 0.9622614979743958,
+      "emotion_scores": {
+        "ang": 0.9622614979743958,
+        "neu": 0.018807504326105118,
+        "hap": 0.018150560557842255,
+        "sad": 0.0007803205517120659
+      }
+    },
+    {
+      "start_time": 47.91,
+      "end_time": 50.76,
+      "transcript": "You keep on saying you understand, but for all I know, you're just reading off script.",
+      "duration": 2.85,
+      "emotion": "ang",
+      "emotion_confidence": 0.9418833255767822,
+      "emotion_scores": {
+        "ang": 0.9418833255767822,
+        "hap": 0.05075964704155922,
+        "neu": 0.005993409547954798,
+        "sad": 0.001363663119263947
+      }
+    },
+    {
+      "start_time": 51.53,
+      "end_time": 57.15,
+      "transcript": "I'm honestly just as confused as you are right now. Like I said, voucher issues should be something that we can resolve easily.",
+      "duration": 5.62,
+      "emotion": "ang",
+      "emotion_confidence": 0.9065621495246887,
+      "emotion_scores": {
+        "ang": 0.9065621495246887,
+        "neu": 0.07722370326519012,
+        "hap": 0.016124345362186432,
+        "sad": 8.979959966382012e-05
+      }
+    },
+    {
+      "start_time": 57.68,
+      "end_time": 63.58,
+      "transcript": "If you can give me your email address in full name, I will review the notes from the previous agent and I will find the answer for you as soon as possible.",
+      "duration": 5.91,
+      "emotion": "ang",
+      "emotion_confidence": 0.7253486514091492,
+      "emotion_scores": {
+        "ang": 0.7253486514091492,
+        "neu": 0.2240266054868698,
+        "hap": 0.04826248437166214,
+        "sad": 0.0023622114676982164
+      }
+    },
+    {
+      "start_time": 81.45,
+      "end_time": 84.74,
+      "transcript": "Yes, this must be frustrating for you, especially that this sale has already ended.",
+      "duration": 3.29,
+      "emotion": "ang",
+      "emotion_confidence": 0.6615051627159119,
+      "emotion_scores": {
+        "ang": 0.6615051627159119,
+        "neu": 0.32616397738456726,
+        "hap": 0.012276183813810349,
+        "sad": 5.462204717332497e-05
+      }
+    },
+    {
+      "start_time": 92.74,
+      "end_time": 96.17,
+      "transcript": "Yes, and I'm going to do my best to help you today Tabitha. I have your account pulled up now.",
+      "duration": 3.43,
+      "emotion": "ang",
+      "emotion_confidence": 0.9329062104225159,
+      "emotion_scores": {
+        "ang": 0.9329062104225159,
+        "neu": 0.06613320857286453,
+        "hap": 0.0009437607368454337,
+        "sad": 1.68169972312171e-05
+      }
+    },
+    {
+      "start_time": 101.79,
+      "end_time": 108.55,
+      "transcript": "So according to your email history here, you sent us an email on the third asking for help about the voucher discount 10 that showed an error message.",
+      "duration": 6.77,
+      "emotion": "ang",
+      "emotion_confidence": 0.998021125793457,
+      "emotion_scores": {
+        "ang": 0.998021125793457,
+        "neu": 0.0017602699808776379,
+        "hap": 0.0001413864374626428,
+        "sad": 7.721882138866931e-05
+      }
+    },
+    {
+      "start_time": 108.81,
+      "end_time": 114.92,
+      "transcript": "This code has already been used and Claire, the previous agent, assured you that she would send a replacement within 24 hours. That's right.",
+      "duration": 6.11,
+      "emotion": "ang",
+      "emotion_confidence": 0.673410177230835,
+      "emotion_scores": {
+        "ang": 0.673410177230835,
+        "hap": 0.22601109743118286,
+        "neu": 0.09309275448322296,
+        "sad": 0.007485928479582071
+      }
+    },
+    {
+      "start_time": 122.24,
+      "end_time": 123.45,
+      "transcript": "Yes, I see that as well.",
+      "duration": 1.22,
+      "emotion": "ang",
+      "emotion_confidence": 0.7585709691047668,
+      "emotion_scores": {
+        "ang": 0.7585709691047668,
+        "neu": 0.23427776992321014,
+        "hap": 0.007147400174289942,
+        "sad": 3.864376594719943e-06
+      }
+    },
+    {
+      "start_time": 124.21,
+      "end_time": 128.7,
+      "transcript": "This was truly not the service that we want you to experience, so what I will do now is to- Well it better not be!",
+      "duration": 4.49,
+      "emotion": "ang",
+      "emotion_confidence": 0.9638299345970154,
+      "emotion_scores": {
+        "ang": 0.9638299345970154,
+        "neu": 0.03542147949337959,
+        "hap": 0.0006096110446378589,
+        "sad": 0.00013899945770390332
+      }
+    },
+    {
+      "start_time": 132.11,
+      "end_time": 135.13,
+      "transcript": "Exactly. So what I will do now is to further check why the code wasn't working.",
+      "duration": 3.02,
+      "emotion": "ang",
+      "emotion_confidence": 0.6949474215507507,
+      "emotion_scores": {
+        "ang": 0.6949474215507507,
+        "neu": 0.1686127930879593,
+        "hap": 0.13549672067165375,
+        "sad": 0.0009430813370272517
+      }
+    },
+    {
+      "start_time": 135.28,
+      "end_time": 136.68,
+      "transcript": "and what I can do to resolve this for you.",
+      "duration": 1.4,
+      "emotion": "ang",
+      "emotion_confidence": 0.8809413313865662,
+      "emotion_scores": {
+        "ang": 0.8809413313865662,
+        "neu": 0.11827164143323898,
+        "hap": 0.0006775946822017431,
+        "sad": 0.00010944102541543543
+      }
+    },
+    {
+      "start_time": 137.04,
+      "end_time": 139.32,
+      "transcript": "Can I put you on hold for two minutes so I can get back to you with an answer?",
+      "duration": 2.28,
+      "emotion": "ang",
+      "emotion_confidence": 0.8280701637268066,
+      "emotion_scores": {
+        "ang": 0.8280701637268066,
+        "neu": 0.15960697829723358,
+        "hap": 0.012304672971367836,
+        "sad": 1.8269509382662363e-05
+      }
+    },
+    {
+      "start_time": 146.91,
+      "end_time": 156.09,
+      "transcript": "So here's what I found. The reason why the voucher didn't work was because you have already used it on your April 2nd order for a koi juicer. So you tried using this on- Wait, what?",
+      "duration": 9.18,
+      "emotion": "ang",
+      "emotion_confidence": 0.9727464318275452,
+      "emotion_scores": {
+        "ang": 0.9727464318275452,
+        "neu": 0.01538118626922369,
+        "hap": 0.010849468410015106,
+        "sad": 0.001022934913635254
+      }
+    },
+    {
+      "start_time": 164.65,
+      "end_time": 172.04,
+      "transcript": "If you check the order confirmation for the juicer, you ordered on the second, you were supposed to pay $49.99, but since the Discount 10 voucher was applied to it...",
+      "duration": 7.39,
+      "emotion": "ang",
+      "emotion_confidence": 0.9679192900657654,
+      "emotion_scores": {
+        "ang": 0.9679192900657654,
+        "neu": 0.029949989169836044,
+        "hap": 0.0020829627756029367,
+        "sad": 4.777192953042686e-05
+      }
+    },
+    {
+      "start_time": 172.31,
+      "end_time": 174.7,
+      "transcript": "You ended up paying only $39.99.",
+      "duration": 2.4,
+      "emotion": "ang",
+      "emotion_confidence": 0.9959016442298889,
+      "emotion_scores": {
+        "ang": 0.9959016442298889,
+        "hap": 0.003425074042752385,
+        "neu": 0.00064928486244753,
+        "sad": 2.394735929556191e-05
+      }
+    },
+    {
+      "start_time": 179.43,
+      "end_time": 182.37,
+      "transcript": "No, all our vouchers can only be used one time.",
+      "duration": 2.94,
+      "emotion": "ang",
+      "emotion_confidence": 0.9819386005401611,
+      "emotion_scores": {
+        "ang": 0.9819386005401611,
+        "neu": 0.016341429203748703,
+        "hap": 0.0017059285892173648,
+        "sad": 1.4063439266465139e-05
+      }
+    },
+    {
+      "start_time": 191.63,
+      "end_time": 202.65,
+      "transcript": "The voucher did work Tabitha. Unfortunately, Claire made a mistake. She was under the impression that the voucher has not been used at all, but was still displaying that error message. But according to your order history here, it has already been used.",
+      "duration": 11.02,
+      "emotion": "ang",
+      "emotion_confidence": 0.935869574546814,
+      "emotion_scores": {
+        "ang": 0.935869574546814,
+        "neu": 0.039664819836616516,
+        "hap": 0.01811979152262211,
+        "sad": 0.006345764268189669
+      }
+    },
+    {
+      "start_time": 202.83,
+      "end_time": 204.37,
+      "transcript": "We cannot issue a replacement voucher.",
+      "duration": 1.54,
+      "emotion": "ang",
+      "emotion_confidence": 0.8119871020317078,
+      "emotion_scores": {
+        "ang": 0.8119871020317078,
+        "neu": 0.1789977103471756,
+        "hap": 0.008874880149960518,
+        "sad": 0.00014023443509358913
+      }
+    },
+    {
+      "start_time": 232.01,
+      "end_time": 238.26,
+      "transcript": "If the code wasn't used, then we'd be able to issue a replacement. But since you have used it and the discount was applied, we just can't.",
+      "duration": 6.24,
+      "emotion": "ang",
+      "emotion_confidence": 0.9367238283157349,
+      "emotion_scores": {
+        "ang": 0.9367238283157349,
+        "neu": 0.044615667313337326,
+        "hap": 0.010675462894141674,
+        "sad": 0.007984986528754234
+      }
+    },
+    {
+      "start_time": 275.77,
+      "end_time": 287.58,
+      "transcript": "Hold on Tabitha, I understand this is frustrating for you and I will do my best to help you with this, but I cannot do my job if you attack me personally. Now, would you be willing to stop calling me names so that I can help you or would you prefer to-",
+      "duration": 11.81,
+      "emotion": "ang",
+      "emotion_confidence": 0.9377246499061584,
+      "emotion_scores": {
+        "ang": 0.9377246499061584,
+        "neu": 0.041338637471199036,
+        "hap": 0.01973353885114193,
+        "sad": 0.0012031277874484658
+      }
+    },
+    {
+      "start_time": 305.94,
+      "end_time": 312.4,
+      "transcript": "Absolutely understandable. So what I will do now is to consult my supervisor about this and see what we can do for you. Now, can we join hold for two minutes?",
+      "duration": 6.46,
+      "emotion": "ang",
+      "emotion_confidence": 0.7546631097793579,
+      "emotion_scores": {
+        "ang": 0.7546631097793579,
+        "neu": 0.1806463599205017,
+        "hap": 0.06458108127117157,
+        "sad": 0.00010952253796858713
+      }
+    }
+  ]
+}

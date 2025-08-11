@@ -1,0 +1,424 @@
+{
+  "SPEAKER_00": [
+    {
+      "start_time": 5.77,
+      "end_time": 7.27,
+      "transcript": "Hi Vanessa, good evening.",
+      "duration": 1.5,
+      "emotion": "hap",
+      "emotion_confidence": 0.698424220085144,
+      "emotion_scores": {
+        "hap": 0.698424220085144,
+        "ang": 0.155429407954216,
+        "neu": 0.1461319476366043,
+        "sad": 1.4427290807361715e-05
+      }
+    },
+    {
+      "start_time": 7.52,
+      "end_time": 15.12,
+      "transcript": "This is Candice from Fresh Chantel.com and following up with you is we agreed this morning to boost your internet speed for a 4k loading capability. Oh yes hello Candice, how are you?",
+      "duration": 7.59,
+      "emotion": "neu",
+      "emotion_confidence": 0.8907656073570251,
+      "emotion_scores": {
+        "neu": 0.8907656073570251,
+        "hap": 0.08391547203063965,
+        "ang": 0.025200897827744484,
+        "sad": 0.0001180341569124721
+      }
+    },
+    {
+      "start_time": 15.51,
+      "end_time": 20.48,
+      "transcript": "I'm doing fantastic. I'm just about to head home. I'm just doing my last calls for the day. How are you?",
+      "duration": 4.98,
+      "emotion": "neu",
+      "emotion_confidence": 0.8827390074729919,
+      "emotion_scores": {
+        "neu": 0.8827390074729919,
+        "hap": 0.10488124191761017,
+        "ang": 0.011803309433162212,
+        "sad": 0.0005764668458141387
+      }
+    },
+    {
+      "start_time": 20.62,
+      "end_time": 22.74,
+      "transcript": "Great, great, thank you. I just finished work.",
+      "duration": 2.13,
+      "emotion": "hap",
+      "emotion_confidence": 0.8228186368942261,
+      "emotion_scores": {
+        "hap": 0.8228186368942261,
+        "neu": 0.17093908786773682,
+        "ang": 0.006237833295017481,
+        "sad": 4.529081252258038e-06
+      }
+    },
+    {
+      "start_time": 22.98,
+      "end_time": 28.63,
+      "transcript": "and I have talked to my husband about it. We just have a few questions before we jump into it. Of course, sure. Go ahead.",
+      "duration": 5.65,
+      "emotion": "neu",
+      "emotion_confidence": 0.9555715322494507,
+      "emotion_scores": {
+        "neu": 0.9555715322494507,
+        "hap": 0.03470837324857712,
+        "ang": 0.009260453283786774,
+        "sad": 0.00045968915219418705
+      }
+    },
+    {
+      "start_time": 29.39,
+      "end_time": 31.4,
+      "transcript": "I'm a little unclear about the pricing. You said it was...",
+      "duration": 2.01,
+      "emotion": "ang",
+      "emotion_confidence": 0.5141748189926147,
+      "emotion_scores": {
+        "ang": 0.5141748189926147,
+        "neu": 0.2823023498058319,
+        "hap": 0.19840319454669952,
+        "sad": 0.005119641311466694
+      }
+    },
+    {
+      "start_time": 31.94,
+      "end_time": 45.88,
+      "transcript": "$25 which is a lot cheaper than my current provider and a lot faster too, which is what God is interested, you know Sure, but what I'd like to know is is $25 gonna be my regular monthly",
+      "duration": 13.94,
+      "emotion": "neu",
+      "emotion_confidence": 0.5054372549057007,
+      "emotion_scores": {
+        "neu": 0.5054372549057007,
+        "hap": 0.40819528698921204,
+        "ang": 0.06507944315671921,
+        "sad": 0.021288003772497177
+      }
+    },
+    {
+      "start_time": 46.15,
+      "end_time": 47.92,
+      "transcript": "If that is the case, we're not interested.",
+      "duration": 1.77,
+      "emotion": "neu",
+      "emotion_confidence": 0.937227725982666,
+      "emotion_scores": {
+        "neu": 0.937227725982666,
+        "sad": 0.05709938704967499,
+        "ang": 0.0028631628956645727,
+        "hap": 0.0028096965979784727
+      }
+    },
+    {
+      "start_time": 48.46,
+      "end_time": 52.66,
+      "transcript": "Oh, $25 is actually already our regular pricing for 100 megabits per second fiber connection.",
+      "duration": 4.2,
+      "emotion": "hap",
+      "emotion_confidence": 0.9253870844841003,
+      "emotion_scores": {
+        "hap": 0.9253870844841003,
+        "neu": 0.04624933749437332,
+        "ang": 0.027862699702382088,
+        "sad": 0.0005008681328035891
+      }
+    },
+    {
+      "start_time": 53.19,
+      "end_time": 56.65,
+      "transcript": "Oh, and no additional fee on top of $25 after a few months?",
+      "duration": 3.46,
+      "emotion": "neu",
+      "emotion_confidence": 0.9905498623847961,
+      "emotion_scores": {
+        "neu": 0.9905498623847961,
+        "hap": 0.00804050825536251,
+        "ang": 0.0013580552767962217,
+        "sad": 5.1574035751400515e-05
+      }
+    },
+    {
+      "start_time": 56.87,
+      "end_time": 60.92,
+      "transcript": "no additional fee because that's already the regular pricing and the installation is free as well.",
+      "duration": 4.05,
+      "emotion": "neu",
+      "emotion_confidence": 0.7351281046867371,
+      "emotion_scores": {
+        "neu": 0.7351281046867371,
+        "ang": 0.14928270876407623,
+        "hap": 0.11513147503137589,
+        "sad": 0.00045768776908516884
+      }
+    },
+    {
+      "start_time": 62.45,
+      "end_time": 63.75,
+      "transcript": "Good. Great. Let's do it.",
+      "duration": 1.3,
+      "emotion": "neu",
+      "emotion_confidence": 0.8868173956871033,
+      "emotion_scores": {
+        "neu": 0.8868173956871033,
+        "hap": 0.10633035749197006,
+        "ang": 0.006849212571978569,
+        "sad": 3.0789947231824044e-06
+      }
+    },
+    {
+      "start_time": 64.17,
+      "end_time": 71.92,
+      "transcript": "Perfect. So to recap real quick, I've got you a plan for 100 megabits per second for a $25 monthly fee. No installation fee.",
+      "duration": 7.75,
+      "emotion": "hap",
+      "emotion_confidence": 0.6535873413085938,
+      "emotion_scores": {
+        "hap": 0.6535873413085938,
+        "ang": 0.23491236567497253,
+        "neu": 0.11094740033149719,
+        "sad": 0.0005528581677936018
+      }
+    },
+    {
+      "start_time": 72.14,
+      "end_time": 77.66,
+      "transcript": "Placing the order will only take a couple of minutes. I'll send you the link then I'll walk you through the steps to sign up Are you ready?",
+      "duration": 5.52,
+      "emotion": "neu",
+      "emotion_confidence": 0.744053065776825,
+      "emotion_scores": {
+        "neu": 0.744053065776825,
+        "ang": 0.1311822384595871,
+        "hap": 0.1246519610285759,
+        "sad": 0.00011277330486336723
+      }
+    },
+    {
+      "start_time": 79.29,
+      "end_time": 82.84,
+      "transcript": "I just sent you the sign up link to your email, VanessaRoberts at gmail.com.",
+      "duration": 3.54,
+      "emotion": "neu",
+      "emotion_confidence": 0.8509241938591003,
+      "emotion_scores": {
+        "neu": 0.8509241938591003,
+        "hap": 0.08380825817584991,
+        "ang": 0.06518646329641342,
+        "sad": 8.113443618640304e-05
+      }
+    },
+    {
+      "start_time": 86.55,
+      "end_time": 91.11,
+      "transcript": "Great, so just click on the link and fill out the required information and you should receive a confirmation email after that.",
+      "duration": 4.56,
+      "emotion": "neu",
+      "emotion_confidence": 0.529766857624054,
+      "emotion_scores": {
+        "neu": 0.529766857624054,
+        "hap": 0.4687432050704956,
+        "ang": 0.0013774096732959151,
+        "sad": 0.00011240551248192787
+      }
+    },
+    {
+      "start_time": 95.85,
+      "end_time": 96.86,
+      "transcript": "Okay, I think I'm done.",
+      "duration": 1.01,
+      "emotion": "neu",
+      "emotion_confidence": 0.9491804242134094,
+      "emotion_scores": {
+        "neu": 0.9491804242134094,
+        "hap": 0.04649897664785385,
+        "ang": 0.004317798186093569,
+        "sad": 2.705053930185386e-06
+      }
+    },
+    {
+      "start_time": 97.91,
+      "end_time": 109.55,
+      "transcript": "Now you can choose the plan and payment method and make sure to unclick the box next to the installation fees since you already have a landline installed. And click on submit order. Yes, click on submit order.",
+      "duration": 11.64,
+      "emotion": "neu",
+      "emotion_confidence": 0.7306211590766907,
+      "emotion_scores": {
+        "neu": 0.7306211590766907,
+        "hap": 0.13511839509010315,
+        "ang": 0.13276347517967224,
+        "sad": 0.0014970226911827922
+      }
+    },
+    {
+      "start_time": 111.2,
+      "end_time": 112.47,
+      "transcript": "Okay, let me check here.",
+      "duration": 1.27,
+      "emotion": "neu",
+      "emotion_confidence": 0.9131706357002258,
+      "emotion_scores": {
+        "neu": 0.9131706357002258,
+        "hap": 0.07896805554628372,
+        "ang": 0.004126314539462328,
+        "sad": 0.0037350510247051716
+      }
+    },
+    {
+      "start_time": 116.52,
+      "end_time": 126.29,
+      "transcript": "Congratulations, I see here that the order is successful. You will get your router within three business days, and I will also send you a link to a video showing the step-by-step instructions on how to activate it.",
+      "duration": 9.77,
+      "emotion": "neu",
+      "emotion_confidence": 0.7849158644676208,
+      "emotion_scores": {
+        "neu": 0.7849158644676208,
+        "ang": 0.12597155570983887,
+        "hap": 0.06390688568353653,
+        "sad": 0.02520565316081047
+      }
+    },
+    {
+      "start_time": 128.08,
+      "end_time": 132.57,
+      "transcript": "But my service will continue working until we receive the router, right?",
+      "duration": 4.49,
+      "emotion": "neu",
+      "emotion_confidence": 0.7762537598609924,
+      "emotion_scores": {
+        "neu": 0.7762537598609924,
+        "hap": 0.16069521009922028,
+        "ang": 0.05528070777654648,
+        "sad": 0.00777034368366003
+      }
+    },
+    {
+      "start_time": 132.96,
+      "end_time": 136.16,
+      "transcript": "Oh definitely, your service will continue working without any interruption.",
+      "duration": 3.21,
+      "emotion": "neu",
+      "emotion_confidence": 0.7552099823951721,
+      "emotion_scores": {
+        "neu": 0.7552099823951721,
+        "ang": 0.18203124403953552,
+        "hap": 0.0625278502702713,
+        "sad": 0.0002310364943696186
+      }
+    },
+    {
+      "start_time": 136.77,
+      "end_time": 139.0,
+      "transcript": "Perfect. We are honestly so excited about it.",
+      "duration": 2.23,
+      "emotion": "ang",
+      "emotion_confidence": 0.65934157371521,
+      "emotion_scores": {
+        "ang": 0.65934157371521,
+        "neu": 0.27093151211738586,
+        "hap": 0.06948839128017426,
+        "sad": 0.00023844686802476645
+      }
+    },
+    {
+      "start_time": 139.96,
+      "end_time": 141.22,
+      "transcript": "I hope we won't get disappointed.",
+      "duration": 1.27,
+      "emotion": "neu",
+      "emotion_confidence": 0.7465062141418457,
+      "emotion_scores": {
+        "neu": 0.7465062141418457,
+        "ang": 0.24713484942913055,
+        "hap": 0.005592075176537037,
+        "sad": 0.0007669326732866466
+      }
+    },
+    {
+      "start_time": 141.63,
+      "end_time": 147.87,
+      "transcript": "No, you won't be. When you're finally able to make the most out of your 4K TV with no more buffering, why would you be disappointed?",
+      "duration": 6.24,
+      "emotion": "hap",
+      "emotion_confidence": 0.4668015241622925,
+      "emotion_scores": {
+        "hap": 0.4668015241622925,
+        "ang": 0.34337112307548523,
+        "neu": 0.18908028304576874,
+        "sad": 0.0007470422424376011
+      }
+    },
+    {
+      "start_time": 148.4,
+      "end_time": 150.24,
+      "transcript": "Well, when you put it like that, it makes sense.",
+      "duration": 1.84,
+      "emotion": "neu",
+      "emotion_confidence": 0.5950577259063721,
+      "emotion_scores": {
+        "neu": 0.5950577259063721,
+        "hap": 0.4041016697883606,
+        "ang": 0.0008229160448536277,
+        "sad": 1.7671485693426803e-05
+      }
+    },
+    {
+      "start_time": 151.15,
+      "end_time": 156.43,
+      "transcript": "And if you need help, you can always call the customer service hotline and they'll be there to answer your billing and technical questions.",
+      "duration": 5.28,
+      "emotion": "neu",
+      "emotion_confidence": 0.602088987827301,
+      "emotion_scores": {
+        "neu": 0.602088987827301,
+        "ang": 0.3701263964176178,
+        "hap": 0.027562711387872696,
+        "sad": 0.00022188863658811897
+      }
+    },
+    {
+      "start_time": 156.63,
+      "end_time": 159.48,
+      "transcript": "All right, Candice, thank you so much. And we'll just wait for the router.",
+      "duration": 2.85,
+      "emotion": "neu",
+      "emotion_confidence": 0.8034378886222839,
+      "emotion_scores": {
+        "neu": 0.8034378886222839,
+        "hap": 0.19407568871974945,
+        "ang": 0.0019149873405694962,
+        "sad": 0.0005714795552194118
+      }
+    },
+    {
+      "start_time": 159.72,
+      "end_time": 160.93,
+      "transcript": "You have yourself a great evening.",
+      "duration": 1.22,
+      "emotion": "neu",
+      "emotion_confidence": 0.6851457357406616,
+      "emotion_scores": {
+        "neu": 0.6851457357406616,
+        "ang": 0.3131090998649597,
+        "hap": 0.0009604302467778325,
+        "sad": 0.0007847248343750834
+      }
+    },
+    {
+      "start_time": 161.22,
+      "end_time": 162.4,
+      "transcript": "You too, Vanessa.",
+      "duration": 1.18,
+      "emotion": "ang",
+      "emotion_confidence": 0.8923957943916321,
+      "emotion_scores": {
+        "ang": 0.8923957943916321,
+        "neu": 0.10215236991643906,
+        "hap": 0.005416490603238344,
+        "sad": 3.531255788402632e-05
+      }
+    }
+  ]
+}
